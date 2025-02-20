@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abcd8cbf265b3d2498c1420218138517
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextPiece: {instanceID: 0}
+  - previousPiece: {instanceID: 0}
+  - tailPiecePrefab: {fileID: 6114755277628043915, guid: 160c28c80da10f44c99218d4c457dbfa, type: 3}
+  - snakeMap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

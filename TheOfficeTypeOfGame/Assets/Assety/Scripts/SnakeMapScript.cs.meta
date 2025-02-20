@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4ef3aece0305c244a9c899d7f594f8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapTilePrefab: {fileID: 182788534272300200, guid: 98a08ab7422439a4e842e99d8cb20245, type: 3}
+  - snakePrefab: {fileID: 4393914994270078174, guid: 24db48cff9084a74888a7c36df991ac1, type: 3}
+  - foodPrefab: {fileID: 7675821617011898924, guid: 413bbc063aeae5b42b5b54e1af6b34cd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
