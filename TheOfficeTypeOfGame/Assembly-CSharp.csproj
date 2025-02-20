@@ -64,7 +64,10 @@
     <Analyzer Include="F:\Unity\2022.3.57f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Assety\Scripts\TailPieceScript.cs" />
+    <Compile Include="Assets\Assety\Scripts\SnakeMapScript.cs" />
     <Compile Include="Assets\Assety\Monitor\PekdataCRTMonitor\Scripts\ExplodableMonitor.cs" />
+    <Compile Include="Assets\Assety\Scripts\SnakeHeadScript.cs" />
     <Compile Include="Assets\Assety\Monitor\PekdataCRTMonitor\Scripts\ExampleBullet.cs" />
   </ItemGroup>
   <ItemGroup>
