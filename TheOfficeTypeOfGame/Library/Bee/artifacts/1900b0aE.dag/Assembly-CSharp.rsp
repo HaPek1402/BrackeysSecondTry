@@ -354,6 +354,7 @@
 -analyzer:"F:/Unity/2022.3.57f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Assety/Monitor/PekdataCRTMonitor/Scripts/ExampleBullet.cs"
 "Assets/Assety/Monitor/PekdataCRTMonitor/Scripts/ExplodableMonitor.cs"
+"Assets/Assety/Scripts/BossSpawner.cs"
 "Assets/Assety/Scripts/SnakeHeadScript.cs"
 "Assets/Assety/Scripts/SnakeMapScript.cs"
 "Assets/Assety/Scripts/TailPieceScript.cs"

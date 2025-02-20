@@ -59,13 +59,14 @@
     <UnityVersion>2022.3.57f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\tgnxr\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.5\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\tgnxr\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="F:\Unity\2022.3.57f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="F:\Unity\2022.3.57f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Assety\Scripts\TailPieceScript.cs" />
     <Compile Include="Assets\Assety\Scripts\SnakeMapScript.cs" />
+    <Compile Include="Assets\Assety\Scripts\BossSpawner.cs" />
     <Compile Include="Assets\Assety\Monitor\PekdataCRTMonitor\Scripts\ExplodableMonitor.cs" />
     <Compile Include="Assets\Assety\Scripts\SnakeHeadScript.cs" />
     <Compile Include="Assets\Assety\Monitor\PekdataCRTMonitor\Scripts\ExampleBullet.cs" />
